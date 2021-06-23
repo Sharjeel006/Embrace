@@ -13,5 +13,6 @@ public final class MyApplication extends Application {
         super.onCreate();
         Embrace.getInstance().start(this);
 
+
     }
 }
